@@ -1,0 +1,41 @@
+﻿C:\Programming\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: два или более файлов с именем GUIButton.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — Elements\Button\GUIButton.cpp, GUI-master\GUI\Elements\Button\GUIButton.cpp.
+C:\Programming\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: два или более файлов с именем Handler.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — General\Handler.cpp, GUI-master\GUI\General\Handler.cpp.
+C:\Programming\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: два или более файлов с именем GUIBox.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — GUI-master\GUI\GUI\GUIBox.cpp, GUI\GUIBox.cpp.
+C:\Programming\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: два или более файлов с именем GUILayer.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — GUI-master\GUI\GUI\GUILayer.cpp, GUI\GUILayer.cpp.
+C:\Programming\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: два или более файлов с именем IDisplayable.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — GUI-master\GUI\IDisplayable.cpp, IDisplayable.cpp.
+C:\Programming\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: два или более файлов с именем IDrawable.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — GUI-master\GUI\IDrawable.cpp, IDrawable.cpp.
+C:\Programming\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: два или более файлов с именем WindowTab.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — GUI-master\GUI\Window\WindowTab.cpp, Window\WindowTab.cpp.
+  WindowTab.cpp
+c:\users\user\source\repos\pi_project\pi_project\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Table.cpp
+c:\users\user\source\repos\pi_project\pi_project\idrawable.h(1): warning C4068: неизвестная директива pragma
+c:\users\user\source\repos\pi_project\pi_project\idrawable.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  IDrawable.cpp
+c:\users\user\source\repos\pi_project\pi_project\idrawable.h(1): warning C4068: неизвестная директива pragma
+c:\users\user\source\repos\pi_project\pi_project\idrawable.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  IDisplayable.cpp
+c:\users\user\source\repos\pi_project\pi_project\idrawable.h(1): warning C4068: неизвестная директива pragma
+c:\users\user\source\repos\pi_project\pi_project\idrawable.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  GUILayer.cpp
+c:\users\user\source\repos\pi_project\pi_project\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  GUIBox.cpp
+c:\users\user\source\repos\pi_project\pi_project\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  WindowTab.cpp
+c:\users\user\source\repos\pi_project\pi_project\gui-master\gui\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  IDrawable.cpp
+c:\users\user\source\repos\pi_project\pi_project\gui-master\gui\idrawable.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  IDisplayable.cpp
+c:\users\user\source\repos\pi_project\pi_project\gui-master\gui\idrawable.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  GUILayer.cpp
+c:\users\user\source\repos\pi_project\pi_project\gui-master\gui\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  GUIBox.cpp
+c:\users\user\source\repos\pi_project\pi_project\gui-master\gui\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Handler.cpp
+c:\users\user\source\repos\pi_project\pi_project\gui-master\gui\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  GUIButton.cpp
+c:\users\user\source\repos\pi_project\pi_project\gui-master\gui\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Handler.cpp
+c:\users\user\source\repos\pi_project\pi_project\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  GUIButton.cpp
+c:\users\user\source\repos\pi_project\pi_project\general\styles.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Создание кода...
